@@ -2,7 +2,7 @@
 
 I built this Cursor-UI-clone webpage with only HTML5 and vanilla CSS for implementing my learning from ChaiCode-Cohort.
 
-## Live-link
+## Live-link : https://spectacular-gaufre-127181.netlify.app/
 
 ## Tech Stack
 
