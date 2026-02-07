@@ -38,3 +38,7 @@ Secondary - #1B1913
 Heading - #EDECEC
 Subheading - oklab(0.94 0.00 0.00 / 0.6)
 Navigation-text - #F54E00
+
+## Preview
+
+![Portfolio Preview](./cursor-clonex.netlify.app_.png)
