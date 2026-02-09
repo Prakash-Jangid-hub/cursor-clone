@@ -26,7 +26,6 @@ I built this Cursor-UI-clone webpage with only HTML5 and vanilla CSS for impleme
 
 - CursorGothic_Regular
 
-
 # Background colors
 
 Primary - #14120B
